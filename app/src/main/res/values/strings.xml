@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Weather Test</string>
+    <string name="see_the_weather">Voir la météo</string>
+    <string name="welcome_to_the_Weather_app">Bienvenue sur l\'application météo!</string>
+    <string name="start_again">Recommencer</string>
+    <string name="weather_multiville">Météo Multiville</string>
+
+
+
+    Welcome to the weather app!
+
+</resources>
